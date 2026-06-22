@@ -103,7 +103,7 @@ export const projects: Project[] = [
       { text: "Dashboard Analytics" },
       { text: "User Management" },
     ],
-    github: "#",
+    github: "https://github.com/ThrishanthaNS/PrismWorklet.git",
     demo: "#",
     image: "",
   },
@@ -119,8 +119,35 @@ export const projects: Project[] = [
       { text: "Automated Screening" },
       { text: "Recruitment Dashboard" },
     ],
-    github: "#",
+    github: "https://github.com/ThrishanthaNS/Automated-recruitment-system-Resume-Scanner.git",
     demo: "#",
+    image: "",
+  },
+  {
+    id: 4,
+    title: "Rosetta – AI-Powered Personalized Learning Platform",
+    description:
+      "Built an adaptive AI tutoring platform that personalizes learning using interest-based concept translation, misconception detection, and multimodal assessments to improve student understanding.",
+    technologies: [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Prisma",
+      "Tailwind CSS",
+      "Groq",
+      "Gemini AI",
+      "OpenRouter"
+    ],
+    features: [
+      { text: "Two-Layer Misconception Engine" },
+      { text: "Interest-Based Learning Adaptation" },
+      { text: "Adaptive Teaching Modes" },
+      { text: "Voice, Sketch & Text Assessment" },
+      { text: "Student Progress Dashboard" },
+      { text: "Authentication & Gamification" }
+    ],
+    github: "https://github.com/whimsicalwolf3007/CtrlAltDefeat.git",
+    demo: "https://ctrl-alt-defeat-ihdnadgvk-vivekma23cse-2469s-projects.vercel.app/",
     image: "",
   },
 ];
@@ -177,7 +204,7 @@ export const contactInfo: ContactInfo[] = [
   {
     type: "Email",
     value: "thrishantha02ns@gmail.com",
-    href: "mailto:thrishantha02ns@gmail.com",
+    href: "mailto:[EMAIL_ADDRESS]",
     icon: "mail",
   },
   {
