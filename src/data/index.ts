@@ -119,8 +119,8 @@ export const projects: Project[] = [
       { text: "Automated Screening" },
       { text: "Recruitment Dashboard" },
     ],
-    github: "https://github.com/ThrishanthaNS/Automated-recruitment-system-Resume-Scanner.git",
-    demo: "#",
+    github: "https://github.com/ThrishanthaNS/Resume-Screening-.git",
+    demo: "https://resume-screening-aj8k.onrender.com",
     image: "",
   },
   {
